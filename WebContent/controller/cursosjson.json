@@ -1,0 +1,7 @@
+{
+    "cursos": 
+    [
+        { "codigo": "1", "nome": "C/C++", "diashorarios": "Segunda", "professor": "Igor"},
+        { "codigo": "2", "nome": "Java", "diashorarios": "Terça", "professor": "Igor"}
+    ]
+}

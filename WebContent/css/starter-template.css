@@ -1,0 +1,96 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  text-align: center;
+}
+
+#menu{
+  margin-top: 50px;
+}
+
+#m-title{
+  color: darkgreen;
+  font-weight: bold;
+
+  margin-top: 30px;
+  margin-bottom: 0px;
+  font-size: 30pt;
+
+  
+}
+.thead-dark{
+  color: darkgreen;
+  text-align: center;
+}
+
+.page-footer {
+  color: white;
+  /*margin-top: 200px;
+  padding-left: 200px;
+  padding-right: 200px;*/
+  background-color: darkgreen;
+
+}
+
+.navbar {
+  margin-left: 0px;
+  margin-right: 0px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  text-align: center;
+  font-size: 30pt;
+  color: white;
+  background-color: darkgreen;
+  font-weight: bolder;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  float: left;
+}
+
+.btn{
+  background-color: darkgreen;
+  margin-top: 30px;
+  font-size: 18pt;
+  font-family:inherit;
+  font-weight: bold;
+  padding-left: 120px;
+  padding-right: 120px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+
+.form-group{
+  color: darkgreen;
+}
+
+.form-container{
+  /*padding-left: 40px;
+  padding-right: 40px;
+  margin-left: 25px;
+  margin-right: 25px; */
+}
+
+.btns-cad-prof {
+  padding-left: 100px;
+  padding-right: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-form-prof {
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 10pt;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.thead-dark {
+  background-color: darkgreen;
+  color: white;
+  border-radius: 10px;
+}
